@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An awesome description for my new macOS security research blog.
   This is a WIP. It will appear in my document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'nullevent'
 github_username:  'null-event'
