@@ -5,6 +5,6 @@ gemspec
 
 gem 'jekyll-seo-tag'
 
-group: jekyll_plugins do
-gem 'jekyll-postfiles'
+group :jekyll_plugins do
+  gem 'jekyll-postfiles'
 end
