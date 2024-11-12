@@ -1,5 +1,5 @@
 ---
-title: /nullevent
+title: /CVEs
 layout: page
 permalink: /nullevent
 ---
