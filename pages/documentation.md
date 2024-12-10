@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+title: CVE List
+category: cve-list
+permalink: /cve-list
 ---
